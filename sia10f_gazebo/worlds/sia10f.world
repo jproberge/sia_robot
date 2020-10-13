@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+	<world name="default">
+		<include>
+			<uri>package://ground_plane</uri>
+		</include>
+		<include>
+			<uri>package://sun</uri>
+		</include>
+	<include>
+			<uri>package://sia10f_description</uri>
+		</include>
+	</world>
+</sdf>
